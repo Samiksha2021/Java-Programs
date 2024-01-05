@@ -11,7 +11,6 @@ public class diamond {
 
     static void fulldiamond(int n)
     {
-        
         int m=n;
         int row,col;
         
