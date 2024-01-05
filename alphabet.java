@@ -6,7 +6,7 @@ public class alphabet {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter any character : ");
+        System.out.println("Enter any character: ");
         char ch = scanner.next().charAt(0);
 
         if(ch >= 'a' && ch <= 'z') {
